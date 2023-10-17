@@ -1,0 +1,28 @@
+
+.about-page-banner-area {
+    background-image: linear-gradient(rgba(31, 31, 32, 0.302), rgba(35, 35, 36, 0.239)),
+      url("/images/about/36.jpg");
+    background-position: center center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    position: relative;
+    z-index: 1;
+    padding-top: 60px;
+    padding-bottom: 60px;
+  }
+
+/* what we do */
+.what-we-do-content ul li {
+    margin-top: 10px;
+    list-style: circle;
+    list-style-position: inside;
+  }
+  .what-we-do-img img {
+    height: 250px;
+    width: 100%;
+    object-fit: cover;
+  }
+  hr {
+    width: 100%;
+  }
+  
